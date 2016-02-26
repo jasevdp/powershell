@@ -1,1 +1,1 @@
-return $(get-location)
+return $env:computername
